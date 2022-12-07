@@ -2,7 +2,8 @@
 
 .main-continar{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+   
     
 }
 
@@ -16,7 +17,7 @@
 
 img{
     height: 80px;
-    width: 150px;
+    width: 33% 33% 33%;
 }
 
 h2{
