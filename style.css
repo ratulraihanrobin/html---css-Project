@@ -2,7 +2,7 @@
 
 .main-continar{
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
    
     
 }
@@ -11,32 +11,32 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
     text-align: center;
 }
 
 img{
-    height: 80px;
+    height: 250px;
     width: 33% 33% 33%;
 }
 
 h2{
-    font-size: 10px;
+    font-size: 25px;
     font-weight: bold;
+   
 }
 .pragraph{
-    font-size: 6px;
-    margin-top: -5px;
+    
+    margin-top: -10px;
     font-family: Arial, Helvetica, sans-serif;
     width: 120px;
       
 }
 button{
-    font-size: 5px;
+    font-size: 15px;
     background: none;
     border: 0.5px solid Tomato;
     color: Tomato;
-    padding:3px 5px;
+    padding:3px 10px;
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
     
